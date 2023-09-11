@@ -7,6 +7,8 @@ I have been studying programming languages for 1 year now, including Javascript,
 
 - Email: pedromsra@gmail.com
 - Phone: +55 84 98101-5334
+- [Github](https://github.com/pedromsra)
+- [LinkedIn](https://www.linkedin.com/in/pedro-maur%C3%ADcio-sab%C3%B3ia-rodrigues-de-ara%C3%BAjo-aa043810a/)
 - Adress: Al das Acácias, 201, Neópolis - Natal - RN - BR - postcode: 59080-560
 
 ## Projects
