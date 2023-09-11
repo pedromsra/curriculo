@@ -3,6 +3,27 @@
 After 6 years working in the food industry, I decided to change my career path to an area where I have a strong affinity: software development.
 I have been studying programming languages for 1 year now, including Javascript, NodeJS, ReactJS, and React-Native, and I feel confident about entering the job market as a FullStack developer.
 
+- [Pedro de Araújo](#pedro-de-ara-jo)
+  * [Personal informations](#personal-informations)
+  * [Projects](#projects)
+    + [Frontend – ReactJS & React-Native](#frontend---reactjs---react-native)
+    + [API Restful – NodeJS](#api-restful---nodejs)
+  * [COURSES](#courses)
+    + [React Native, Udemy — Online](#react-native--udemy---online)
+    + [Explorer (FullStack Developer), RocketSeat — Online](#explorer--fullstack-developer---rocketseat---online)
+    + [Advanced Javascript, Udemy — Online](#advanced-javascript--udemy---online)
+    + [Gestão Ágil com Scrum, Udemy — Online](#gest-o--gil-com-scrum--udemy---online)
+    + [OKR: Metodologia e Aplicação, Udemy — Online](#okr--metodologia-e-aplica--o--udemy---online)
+  * [EXPERIENCE](#experience)
+    + [Projects & Maintenance Manager, Simas Industrial de Alimentos — Macaíba/RN](#projects---maintenance-manager--simas-industrial-de-alimentos---maca-ba-rn)
+    + [Maintenance Supervisor, Simas Industrial de Alimentos — Macaíba/RN](#maintenance-supervisor--simas-industrial-de-alimentos---maca-ba-rn)
+  * [EDUCATION](#education)
+    + [Bachelor of Science and Technology, Graduate — UFRN - Natal/RN](#bachelor-of-science-and-technology--graduate---ufrn---natal-rn)
+    + [MECHANICAL ENGINEERING, Graduate — UFRN - Natal/RN](#mechanical-engineering--graduate---ufrn---natal-rn)
+    + [PEOPLE MANAGEMENT, MBA — UFRN - Natal/RN](#people-management--mba---ufrn---natal-rn)
+  * [LANGUAGES](#languages)
+  * [COMPETENCIES](#competencies)
+
 ## Personal informations
 
 - Email: pedromsra@gmail.com
