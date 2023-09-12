@@ -4,15 +4,23 @@ After 6 years working in the food industry, I decided to change my career path t
 I have been studying programming languages for 1 year now, including Javascript, NodeJS, ReactJS, and React-Native, and I feel confident about entering the job market as a FullStack developer.
 
 ## Personal informations
+
 - Email: pedromsra@gmail.com
 - Phone: +55 84 98101-5334
 - [Github](https://github.com/pedromsra)
 - [LinkedIn](https://www.linkedin.com/in/pedro-maur%C3%ADcio-sab%C3%B3ia-rodrigues-de-ara%C3%BAjo-aa043810a/)
-- Adress: Al das Acácias, 201, Neópolis, Natal, RN, BR, 59080-560
+- Adress:
+  - StreetName: Al das Acácias, 201, Neópolis;
+  - City: Natal;
+  - State: Rio Grande do Norte;
+  - Brazil;
+  - Postal code: 59080560
 
 ## EXPERIENCE
 
-### Frontend – ReactJS & React-Native, 09/2022, I CURRENTLY WORK HERE
+### Frontend Developer – ReactJS & React-Native, Projects
+#### Location: Work From Home
+#### Description:
 - I have developed several Frontend projects over the past few months using ReactJS and Vite, incorporating Styled-Components for CSS-in-JS and a CSS pre-processor. The main features I have developed include:
   - Component-based development;
   - Mobile-First, Accessibility, and Responsive Design;
@@ -25,7 +33,7 @@ I have been studying programming languages for 1 year now, including Javascript,
   - [FoodExplorer](https://github.com/pedromsra/FoodExplorer_FE);
   - [CarTrack](https://github.com/pedromsra/vehicle_tracking_FrontEnd);
  
-### API Restful – NodeJS, 09/2022, I CURRENTLY WORK HERE
+### Backend Developer - NodeJS, Projects, 09/2022, I CURRENTLY WORK HERE
 - I have developed several APIs over the past few months using Node.js, with the main functionalities being:
   - User authentication with JWT;
   - User editing with image uploads;
