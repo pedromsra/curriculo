@@ -1,7 +1,9 @@
 # Pedro de Araújo
 
 Após 6 anos trabalhando na industria de alimentos decidi mudar de carreira para uma área que tenho total afinidade: desenvolvimento de softwares.
+
 Minha experiência profissional foi voltada à Engenharia e Gestão de Pessoas e a maior parte do tempo foi voltado à projetos e processos. Focando em comunicação e trabalho em equipe alinhado.
+
 Estou estudando linguagem de programação a mais de 1 ano, NodeJS, ReactJS e React-Native, e me sinto seguro para ingressar no mercado de trabalho como desenvolvedor FullStack.
 
 ## Informações pessoais
@@ -68,11 +70,13 @@ JUNHO/2017 – ABRIL/2020
 ### React Native, Udemy — Online
 
 AGOSTO/2023 – NOW
+
 Native components, Redux e Flexbox, Firebase, NoSQL.
 
 ### Explorer (FullStack), RocketSeat — Online
 
 JULHO/2022 – JULHO/2023
+
 HTML, CSS, Javascript, Git/Github, NodeJS, Express, Knex, ReactJS, Testes automatizados com Jest.
 
 ### Advanced Javascript, Udemy — Online
@@ -87,17 +91,18 @@ MARÇO/2022
 
 DEZEMBRO/2021
 
-
 ## EDUCAÇÃO
 
 ### Bacharelado em Ciências e Tecnologia, Graduação — UFRN - Natal/RN
 
 FEVEREIRO/2012 – JULHO/2015
+
 Realizei pesquisa científica em métodos computácionais com Python3 e FORTRAN para análise de estruturas mecânicas.
 
 ### Engenharia Mecânica, Graduação — UFRN - Natal/RN
 
 JULHO/2015 - JUNHO/2017
+
 TCC sobre análise computácional de estruturas com Python3 e estágio de 1 ano em indústria de alimentos.
 
 ### Gestão estratégica de pessoas, Pós graduação — UFRN - Natal/RN
