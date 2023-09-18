@@ -1,63 +1,31 @@
 # Pedro de Araújo
 
-After 6 years working in the food industry, I decided to change my career path to an area where I have a strong affinity: software development.
-I have been studying programming languages for 1 year now, including Javascript, NodeJS, ReactJS, and React-Native, and I feel confident about entering the job market as a FullStack developer.
+Father, Husband, and FullStack Developer. Continuous student of NodeJS, ReactJS, and React-Native, I have already developed several RESTful API and Front-end projects, consuming both my own and third-party APIs. I am seeking my first opportunity to work as a Fullstack developer, Back-end, or Junior Front-end professional.
+
+## Skills
+
+Node.js; React.js; React Native; Redux; Javascript; Typescript; Jest; JWT; SQL; MySQL; PostgreSQL; SQLite; HTML5; CSS3; Styled Components; Axios; Firebase; Git/Github; Team work; Problem Solving;
 
 ## Personal informations
 
 - Email: pedromsra@gmail.com
 - Phone: +55 84 98101-5334
-- [Github](https://github.com/pedromsra)
+- [Github - Projects](https://github.com/pedromsra)
 - [LinkedIn](https://www.linkedin.com/in/pedro-maur%C3%ADcio-sab%C3%B3ia-rodrigues-de-ara%C3%BAjo-aa043810a/)
-- Adress:
-  - StreetName: Al das Acácias, 201, Neópolis;
-  - City: Natal;
-  - State: Rio Grande do Norte;
-  - Brazil;
-  - Postal code: 59080560
+- Address: Al das Acácias, 201, Neópolis - Natal - RN - BR - postcode: 59080-560
 
-## EXPERIENCE
+## LANGUAGES
 
-### Frontend Developer – ReactJS & React-Native, Projects
-#### Location: Work From Home
-#### Description:
-- I have developed several Frontend projects over the past few months using ReactJS and Vite, incorporating Styled-Components for CSS-in-JS and a CSS pre-processor. The main features I have developed include:
-  - Component-based development;
-  - Mobile-First, Accessibility, and Responsive Design;
-  - Version control with GitHub;
-  - Integration of Google Maps API with react-google-maps/api;
-  - API consumption with Axios;
-  - Deployment on a server;
-- Links with documentation:
-  - [RocketNotes](https://github.com/pedromsra/rocketnotes_frontend);
-  - [FoodExplorer](https://github.com/pedromsra/FoodExplorer_FE);
-  - [CarTrack](https://github.com/pedromsra/vehicle_tracking_FrontEnd);
- 
-### Backend Developer - NodeJS, Projects, 09/2022, I CURRENTLY WORK HERE
-- I have developed several APIs over the past few months using Node.js, with the main functionalities being:
-  - User authentication with JWT;
-  - User editing with image uploads;
-  - SQL with Knex for creation, updates, and queries;
-  - Custom searches using query parameters;
-  - Error handling and handling of incorrect requests;
-  - Automated testing with Jest;
-  - Integration with the Pix API;
-  - Version control with GitHub;
-  - Deployment on a online server;
-- Links with documentation:
-  - [FoodExplorer](https://github.com/pedromsra/FoodExplorer_API);
-  - [RocketNotes](https://github.com/pedromsra/rocketnotes_backend);
-  - [MoviesNotes](https://github.com/pedromsra/MovieNotesBackEnd);
+### English: Advanced
 
-### Projects & Maintenance Manager, Simas Industrial de Alimentos, Macaíba/RN, 05/2020, 10/2022
-- I was responsible for the human and material resources of the department, as well as for goals and results. I was in charge of maintenance and projects at the factory. I conceived, defined, and implemented a Maintenance Management web application;
-- I led projects and tasks with tight deadlines and delicate scopes (food safety or employee safety risks in case of failure), requiring strong communication and teamwork;
-- I led a multidisciplinary team consisting of engineers, analysts, and technicians with 75+ employees and contractors.
+## PROJECT LINKS
 
-### Maintenance Supervisor, Simas Industrial de Alimentos, Macaíba/RN, 07/2017, 05/2022
-- I planned and led teams for mechanical, electrical, and structural maintenance of machinery;
-- I designed industrial solutions using CAx software;
-- I prepared, reviewed, and corrected documentation and made adjustments in the maintenance department for international audits.
+- Frontend – React.js and React-Native
+  - [FoodExplorer: Authentication, Image Upload, Forms](https://github.com/pedromsra/FoodExplorer_FE);
+  - [CarTrack: Google Maps API, Custom Routes](https://github.com/pedromsra/vehicle_tracking_FrontEnd);
+- Backend - Node.js
+  - [FoodExplorer: Authentication, Image Upload, Forms](https://github.com/pedromsra/FoodExplorer_API);
+
  
 ## COURSES
 
@@ -84,23 +52,17 @@ Thesis on computational analysis of structures and a one-year internship in the 
 
 ### PEOPLE MANAGEMENT, Post Graduate, UFRN, Natal/RN, 04/2018, 06/2020
 
-## LANGUAGES
 
-### English: Advanced
+## EXPERIENCE
 
-## SKILLS
+### Projects & Maintenance Manager, Simas Industrial de Alimentos, Macaíba/RN, 05/2020, 10/2022
 
-- NodeJS;
-- ReactJS;
-- React Native;
-- Automated Testing;
-- SQL, SQLite, NoSQL;
-- Advanced JavaScript;
-- HTML;
-- CSS;
-- Redux;
-- Creativity;
-- Adaptability;
-- Problem Solving;
-- Teamwork;
-- Analytical Thinking;
+- Experience with Scrum, project management, daily routine management, team management, asset management, and personnel management;
+- Experience in ERP implementation, processes, procedures, and operational training;
+- Experience with maintenance routines, maintenance shutdowns, PCM, international audits;
+
+### Maintenance Supervisor, Simas Industrial de Alimentos, Macaíba/RN, 07/2017, 05/2022
+
+- Experience in team management, task planning and documentation, and PCM;
+- Experience in the maintenance of industrial machinery and metal structures;
+- Experience in load handling, welding planning and inspection, and engineering calculations.
