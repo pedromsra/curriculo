@@ -10,21 +10,17 @@ Node.js; React.js; React Native; Redux; Javascript; Typescript; Jest; JWT; SQL; 
 
 - Email: pedromsra@gmail.com
 - Telefone: +55 84 98101-5334
-- [Github](https://github.com/pedromsra)
+- [Github - Projetos](https://github.com/pedromsra)
 - [LinkedIn](https://www.linkedin.com/in/pedro-maur%C3%ADcio-sab%C3%B3ia-rodrigues-de-ara%C3%BAjo-aa043810a/)
 - Endereço: Al das Acácias, 201, Neópolis - Natal - RN - BR - postcode: 59080-560
 
-### LINKS
+### LINKS DE PROJETOS
 
 - Frontend – React.js e React-Native
-  - [RocketNotes](https://github.com/pedromsra/rocketnotes_frontend);
-  - [FoodExplorer](https://github.com/pedromsra/FoodExplorer_FE);
-  - [CarTrack](https://github.com/pedromsra/vehicle_tracking_FrontEnd);
+  - [FoodExplorer: Autenticação, Upload de Imagens, Formulários](https://github.com/pedromsra/FoodExplorer_FE);
+  - [CarTrack: API Google Maps, Rotas personalizadas](https://github.com/pedromsra/vehicle_tracking_FrontEnd);
 - Backend - Node.js
-  - [FoodExplorer](https://github.com/pedromsra/FoodExplorer_API);
-  - [RocketNotes](https://github.com/pedromsra/rocketnotes_backend);
-  - [MoviesNotes](https://github.com/pedromsra/MovieNotesBackEnd);
- 
+  - [FoodExplorer: Autenticação, Upload de Imagens, Formulários](https://github.com/pedromsra/FoodExplorer_API); 
 
 ### CURSOS
 
