@@ -4,7 +4,7 @@ Pai, Marido e Desenvolvedor FullStack. Estudante contínuo de NodeJS, ReactJS e 
 
 ## Habilidades
 
-Node.js; React.js; NextJS; NestJS; React Native; Redux; Jotai; Javascript; Typescript; Jest; JWT; SQL; MySQL; PostgreSQL; SQLite; GraphQL; HTML5; CSS3; Styled Components; MUI; Tailwind; Axios; Firebase; Git/Github; Trabalho em equipe; Resolução de problemas;
+Node.js; React.js; NextJS; NestJS; React Native; Redux; Jotai; Javascript; Typescript; Jest; JWT; SQL; MySQL; PostgreSQL; SQLite; GraphQL; HTML5; CSS3; Styled Components; MUI; Tailwind; Axios; Firebase; Git/Github; Figma; UI/UX; Trabalho em equipe; Resolução de problemas;
 
 ## Informações Pessoais
 
