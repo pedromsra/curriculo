@@ -51,6 +51,7 @@ HTML, CSS, Javascript, Git/Github, NodeJS, Express, Knex, ReactJS, Testes automa
 - Stacks: Typescript, ReactJS, Redux, JotaiJS, NextJS, CSS3, HTML5, MaterialUI, Shadcn/ui, Tailwind, NextJS, Vite, SingleSPA;
 - Features:
   - Landingpages;
+  - Dsenvolvmento de UI/UX com Figma;
   - ERP para agendamento, consultas e atendimentos clínicos;
   - ERP para gestão de contratos e assinatura digital;
   - Soluções WEB3 (iGame & Web Gambling);
