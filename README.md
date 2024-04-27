@@ -4,7 +4,7 @@ Father, Husband, and FullStack Developer. Continuous student of NodeJS, ReactJS,
 
 ## Skills
 
-Node.js; React.js; React Native; Redux; Javascript; Typescript; Jest; JWT; SQL; MySQL; PostgreSQL; SQLite; HTML5; CSS3; Styled Components; Axios; Firebase; Git/Github; Team work; Problem Solving;
+Node.js; React.js; NextJS; NestJS; React Native; Redux; Jotai; Javascript; Typescript; Jest; JWT; SQL; MySQL; PostgreSQL; SQLite; GraphQL; HTML5; CSS3; Styled Components; MUI; Tailwind; Axios; Firebase; Git/Github; Team work; Problem Solving;
 
 ## Personal informations
 
@@ -23,8 +23,12 @@ Node.js; React.js; React Native; Redux; Javascript; Typescript; Jest; JWT; SQL; 
 - Frontend – React.js and React-Native
   - [FoodExplorer: Authentication, Image Upload, Forms](https://github.com/pedromsra/FoodExplorer_FE);
   - [CarTrack: Google Maps API, Custom Routes](https://github.com/pedromsra/vehicle_tracking_FrontEnd);
+  - [Tasks - Typescript](https://github.com/pedromsra/CoderTroop_FE);
+  - [Upload CSV to Ecommerce - simple UI](https://github.com/pedromsra/ShopperTest_FE);
 - Backend - Node.js
   - [FoodExplorer: Authentication, Image Upload, Forms](https://github.com/pedromsra/FoodExplorer_API);
+  - [Tasks - API NodeJS + Jest Tests](https://github.com/pedromsra/CoderTroop_API);
+  - [Backend RestAPI to upload .csv file to Ecommerce](https://github.com/pedromsra/ShopperTest);
 
  
 ## COURSES
@@ -54,6 +58,21 @@ Thesis on computational analysis of structures and a one-year internship in the 
 
 
 ## EXPERIENCE
+
+### Jr Fullstack/Frontend Develooper at Codertroop, Natal/RN, 10/2023 to present
+
+- Stacks: Typescript, ReactJS, Redux, JotaiJS, NextJS, CSS3, HTML5, MaterialUI, Shadcn/ui, Tailwind, NextJS, Vite, SingleSPA;
+- Features:
+  - Landingpages;
+  - ERP for scheduling, consultations, and clinical appointments;
+  - ERP for contracts manaagement and digital signature;
+  - WEB3 Solutions;
+  - JS Event based Game integrated with a Colyseus web socket;
+  
+
+### [FullStack LandingPage + Bank of Talents registration page](https://infanciaspanapana.com.br/)
+
+- Deployed RestAPI and FrontEnd;
 
 ### Projects & Maintenance Manager, Simas Industrial de Alimentos, Macaíba/RN, 05/2020, 10/2022
 
