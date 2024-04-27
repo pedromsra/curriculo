@@ -39,7 +39,7 @@ Node.js; React.js; NextJS; NestJS; React Native; Redux; Jotai; Javascript; Types
   - Landingpages;
   - ERP for scheduling, consultations, and clinical appointments;
   - ERP for contracts manaagement and digital signature;
-  - WEB3 Solutions;
+  - WEB3 Solutions (iGame & Web Gambling);
   - JS Event based Game integrated with a Colyseus web socket;
   
 
