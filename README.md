@@ -53,7 +53,7 @@ HTML, CSS, Javascript, Git/Github, NodeJS, Express, Knex, ReactJS, Testes automa
   - Landingpages;
   - ERP para agendamento, consultas e atendimentos clínicos;
   - ERP para gestão de contratos e assinatura digital;
-  - Soluções WEB3;
+  - Soluções WEB3 (iGame & Web Gambling);
   - Jogo baseado em eventos JS integrado com um web-socket Colyseus;
   
 
