@@ -34,9 +34,10 @@ Node.js; React.js; NextJS; NestJS; React Native; Redux; Jotai; Javascript; Types
 
 ### Jr Fullstack/Frontend Develooper at Codertroop, Natal/RN, 10/2023 to present
 
-- Stacks: Typescript, ReactJS, Redux, JotaiJS, NextJS, CSS3, HTML5, MaterialUI, Shadcn/ui, Tailwind, NextJS, Vite, SingleSPA;
+- Stacks: Typescript, ReactJS, Redux, JotaiJS, NextJS, CSS3, HTML5, MaterialUI, Shadcn/ui, Tailwind, NextJS, Vite, SingleSPA, Figma;
 - Features:
   - Landingpages;
+  - Figma UI/UX;
   - ERP for scheduling, consultations, and clinical appointments;
   - ERP for contracts manaagement and digital signature;
   - WEB3 Solutions (iGame & Web Gambling);
