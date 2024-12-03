@@ -1,6 +1,6 @@
 # Pedro de Araújo
 
-Pai, Marido e Desenvolvedor FullStack. Gosto de aprender e implementar coisas novas, mas sem esquecer doque funciona.
+Pai, Marido e Desenvolvedor FullStack. Gosto de aprender e implementar coisas novas, mas sem esquecer do que funciona.
 
 ## Habilidades
 
