@@ -4,7 +4,7 @@ Pai, Marido e Desenvolvedor FullStack. Gosto de aprender e implementar coisas no
 
 ## Habilidades
 
-Node.js; React.js; Web3; web3js; ethers; NextJS; NestJS; GraphQL; React Native; Redux; Jotai; Javascript; Typescript; Jest; Cypress; JWT; SQL; MySQL; PostgreSQL; MongoDB; SQLite; Microserviços; RabitMQ; HTML5; CSS3; Styled Components; MUI; Tailwind; Axios; Firebase; Git/Github; Figma; UI/UX; Trabalho em equipe; Resolução de problemas;
+Node.js; React.js; Web3; ethers; NextJS; NestJS; GraphQL; React Native; Redux; Jotai; Javascript; Typescript; Jest; Cypress; MySQL; PostgreSQL; MongoDB; SQLite; Microserviços; RabitMQ; HTML5; CSS3; Styled Components; MUI; Tailwind; Firebase; Git/Github/Gitlab; Figma; UI/UX; Trabalho em equipe; Resolução de problemas;
 
 ## Informações Pessoais
 
@@ -22,21 +22,18 @@ Node.js; React.js; Web3; web3js; ethers; NextJS; NestJS; GraphQL; React Native; 
 
 ### Desenvolvedor Fullstack Júnior na Codertroop, Natal/RN, 10/2023 até o momento
 
-- Stacks: Typescript, NestJS, ReactJS, MongoDB, GraphQL, Redux, JotaiJS, CSS3, HTML5, MaterialUI, Shadcn/ui, Tailwind, NextJS, Vite, SingleSPA;
+- Stacks: Typescript, NestJS, ReactJS, MongoDB, GraphQL, Redux, JotaiJS, CSS3, HTML5, MaterialUI, Shadcn/ui, Tailwind, NextJS, Vite, SingleSPA; Git;
 - Features:
   - Microserviços com NestJS, RabitMQ, MongoDB, GraphQL e WunderGraph Cosmo;
-  - Soluções WEB3 (iGame & Web Gambling);
+  - Soluções WEB3 com ethersjs (iGame & Web Gambling);
   - Landingpages com Tailwind, CSS3 e MUI;
   - Dsenvolvmento de UI/UX com Figma;
   - ERP para agendamento, consultas e atendimentos clínicos;
   - ERP para gestão de contratos e assinatura digital;
   - Sistema de delivery;
   - Jogo de Poker baseado em eventos JS integrado com um web-socket Colyseus;
-  
-
-### [Infanciaspanapana.com.br - LandingPage FullStack + Página de cadastro de Banco de Talentos](https://infanciaspanapana.com.br/)
-
-- API Restful e FrontEnd implantados;
+  - Versionamento com Git e Gitlab;
+  - Pre-commit com Husky + ESLint + Prettier;
 
 ### Gerente de Projetos e Manutenção, Simas Industrial de Alimentos, Macaíba/RN, 05/2020, 10/2022
 
@@ -62,7 +59,8 @@ Node.js; React.js; Web3; web3js; ethers; NextJS; NestJS; GraphQL; React Native; 
   - [Tarefas - API NodeJS + Testes Jest](https://github.com/pedromsra/CoderTroop_API);
   - [Backend RestAPI para upload de arquivo .csv para E-commerce](https://github.com/pedromsra/ShopperTest);
 
-## Cursos
+### React Native, Udemy, 08/2023, 09/2023
+Componentes nativos, Redux e Flexbox, Firebase, NoSQL.
 
 ### React Native, Udemy, 08/2023, 09/2023
 Componentes nativos, Redux e Flexbox, Firebase, NoSQL.
